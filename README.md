@@ -1,4 +1,4 @@
-# slimFramework
+# REST API PHP + Slim Framework
 REST API in PHP using Slim Framework
 
 Some intersting links (I'm following literally some of them):
